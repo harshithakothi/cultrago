@@ -107,10 +107,12 @@ The goal of CulturaGo is to create a simple digital space where users can explor
 * Improve mobile responsiveness
 * Add richer information about traditions and festivals
 
-## 👩‍💻 Team
+**##👩‍💻 Team**
 
 CulturaGo was developed as a collaborative web development project.
 
----
+* Harshitha Kothi — Idea, content, frontend development, coding & deployment
+* Tulasi — UI design, image selection, testing & project refinement
+
 
 **Built with HTML, CSS & JavaScript ❤️**
